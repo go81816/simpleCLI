@@ -1,0 +1,17 @@
+INT_DIR=./objs
+OUTPUT_DIR=./bin
+OUTPUT_FILENAME=simpleCLI
+OUTPUT_FILEEXT=
+
+PROJ_OBJMAKERFLAGS=
+
+PROJ_BINMAKERFLAGS=
+PROJ_LIBS=-lstdc++ -ldl
+
+SRCFILES= \
+	cfgMgr.cpp \
+	main.cpp \
+	win32.cpp
+
+export
+
