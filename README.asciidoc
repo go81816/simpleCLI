@@ -1,0 +1,30 @@
+simpleCLI README
+================
+:keywords: cli, tool, cxx, cpp
+:description: simpleCLI is an extensible, shell-like interface +
+	for debugging dynamically loadable binaries +
+	(among other things)
+
+.01 February 2011: simpleCLI 0.1 Released
+******************************************************************
+This is a first release intended to just "get something out there"
+
+mailto:geoffrey.opland@yahoo.com
+******************************************************************
+
+Introduction
+------------
+{description}
+
+This is just a place holder to see what asciidoc markup is capable
+of.
+
+TIP:  note to self
+
+
+TODO
+----
+(n)curses library support?
+ensure code is still x-platform
+potentially convert this README to groff?
+
